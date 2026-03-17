@@ -100,9 +100,9 @@
                                                 </MultiBinding.Bindings>
                                             </MultiBinding>
                                         </controls:SymbolIcon.Clip>
-                                        <controls:SymbolIcon.Tag>
+                                        <animations:AnimationProperties.AnimationTagValue>
                                             <system:Double>1</system:Double>
-                                        </controls:SymbolIcon.Tag>
+                                        </animations:AnimationProperties.AnimationTagValue>
                                     </controls:SymbolIcon>
                                 </Border>
                             </Border>
